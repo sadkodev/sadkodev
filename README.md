@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cristian Castillo</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
-- 🔭 I’m currently working on [My portfolio](https://www.nationcreative.online)
+- 🔭 I’m currently working on [My portfolio](https://nationcreative.online)
 
 - 🌱 I’m currently learning **Vuejs, Nodejs**
 
-- 💬 Ask me about **Html5,Css3,Js,Git,UI-UX**
+- 💬 Ask me about **Html5, Css3, Js, Git, UI-UX**
 
 - 📫 How to reach me **kristiankastillo0@gmail.com**
 
