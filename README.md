@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kristian Kastillo</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
-- 🔭 I’m currently working on [My portfolio](https://nationcreative.online)
+- 🔭 I’m currently working on [My portfolio](#)
 
 - 🌱 I’m currently learning **Vuejs, Nodejs**
 
