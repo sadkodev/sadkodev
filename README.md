@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Html5, Css3, Js, Git, UI-UX**
 
-- 📫 How to reach me **kristiankastillo0@gmail.com**
+- 📫 How to reach me **kristian@...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
