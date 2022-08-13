@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kristian Kastillo</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
-- 🔭 I’m currently working on [My portfolio](https://nationcreative.online)
+- 🔭 I’m currently working on [My portfolio](https://nationcreative.online) 
 
 - 🌱 I’m currently learning **Vuejs, Nodejs**
 
 - 💬 Ask me about **Html5, Css3, Js, Git, UI-UX**
 
 - 📫 How to reach me **kristian@...**
+
+<a href="https://app.daily.dev/2kristian"><img src="https://api.daily.dev/devcards/e65ed7b64883496a8ef2a70db97447d6.png?r=r9x" width="400" alt="kristian kastillo's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
