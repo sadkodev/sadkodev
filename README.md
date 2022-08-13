@@ -7,12 +7,9 @@
 
 - 💬 Ask me about **Html5, Css3, Js, Git, UI-UX**
 
+<p align="center"> <a align="center" href="https://app.daily.dev/2kristian"><img src="https://api.daily.dev/devcards/e65ed7b64883496a8ef2a70db97447d6.png?r=r9x" width="400" alt="kristian kastillo's Dev Card"/></a> </p>
 
-<a align="center" href="https://app.daily.dev/2kristian"><img src="https://api.daily.dev/devcards/e65ed7b64883496a8ef2a70db97447d6.png?r=r9x" width="400" alt="kristian kastillo's Dev Card"/></a>
-
-
-
-<h3 align="left">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://dev.to/sadkodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sadkodev" height="30" width="40" /></a>
 <a href="https://twitter.com/sadkodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sadkodev" height="30" width="40" /></a>
