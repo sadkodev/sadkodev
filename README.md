@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Kristian Kastillo</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
+<p align="center">
+<p align="left">
 - 🔭 I’m currently working on [My portfolio](https://nationcreative.online) 
 
 - 🌱 I’m currently learning **Vuejs, Nodejs**
 
 - 💬 Ask me about **Html5, Css3, Js, Git, UI-UX**
+</p>
 
-<p align="center"> <a align="center" href="https://app.daily.dev/2kristian"><img src="https://api.daily.dev/devcards/e65ed7b64883496a8ef2a70db97447d6.png?r=r9x" width="400" alt="kristian kastillo's Dev Card"/></a> </p>
-
+<p align="right"> <a align="center" href="https://app.daily.dev/2kristian"><img src="https://api.daily.dev/devcards/e65ed7b64883496a8ef2a70db97447d6.png?r=r9x" width="400" alt="kristian kastillo's Dev Card"/></a> </p>
+</p>
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://dev.to/sadkodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sadkodev" height="30" width="40" /></a>
