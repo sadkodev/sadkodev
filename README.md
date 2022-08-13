@@ -31,5 +31,3 @@ class="techno-item" href="https://www.figma.com/" target="_blank" rel="noreferre
 
 
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadkodev&show_icons=true&locale=en&layout=compact" alt="sadkodev" /></p>
-
-<p align="left"> <a align="center" href="https://app.daily.dev/2kristian"><img src="https://api.daily.dev/devcards/e65ed7b64883496a8ef2a70db97447d6.png?r=r9x" width="400" alt="kristian kastillo's Dev Card"/></a> </p>
