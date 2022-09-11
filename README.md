@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kristian Kastillo</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h4 align="center">A passionate front-end developer and design web UI-UX on Canada</h4>
 
 <p align="center">
 <p align="left">
