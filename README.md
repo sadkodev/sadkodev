@@ -10,17 +10,10 @@
 - 💬 Ask me about **Html5, Css3, Js, Git, UI-UX**
 </p>
 </p>
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-<a href="https://dev.to/sadkodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sadkodev" height="30" width="40" /></a>
-<a href="https://twitter.com/sadkodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sadkodev" height="30" width="40" /></a>
-<a href="https://linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cristiancastillo" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sadkodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sadkodev" height="30" width="40" /></a>
-<a href="https://dribbble.com/sadkodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="sadkodev" height="30" width="40" /></a>
-<a href="https://medium.com/sadkodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sadkodev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sadkodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sadkodev" height="30" width="40" /></a>
-<a href="https://discord.gg/sadkodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sadkodev" height="30" width="40" /></a>
+<h5>About me</h5> 
+<p>After looking for myself for a long time, I made several experiences to allow me to grow and develop my skills, which allowed me to find my vocation.
 </p>
+
 
 <h2 align="center">Languages and Tools </h2>
 
