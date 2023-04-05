@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sadkodev</h1>
 <h5>About me</h5> 
-<h4 align="center">I am an experienced front-end developer with skills in web UI-UX design. I possess a comprehensive understanding of UI-UX design principles and am highly committed to creating engaging and intuitive user experiences. I have worked on various web projects and have experience utilizing front-end programming languages such as HTML, CSS, JavaScript, and other popular frameworks. Furthermore, I am constantly learning and improving my skills to stay up-to-date with the latest trends and technologies. I am excited about the opportunity to work in a challenging and dynamic environment, and I look forward to contributing my skills and experience to any project I am involved in.</h4>
+<p align="center">I am an experienced front-end developer with skills in web UI-UX design. I possess a comprehensive understanding of UI-UX design principles and am highly committed to creating engaging and intuitive user experiences. I have worked on various web projects and have experience utilizing front-end programming languages such as HTML, CSS, JavaScript, and other popular frameworks. Furthermore, I am constantly learning and improving my skills to stay up-to-date with the latest trends and technologies. I am excited about the opportunity to work in a challenging and dynamic environment, and I look forward to contributing my skills and experience to any project I am involved in.</p>
 
 <p align="center">
 <p align="left">
