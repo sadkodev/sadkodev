@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sadkodev</h1>
 <h5>About me</h5> 
-<p align="left">I'm a passionate front-end developer who loves creating engaging and accessible user experiences. I enjoy working on challenging projects and am always learning and improving my skills in HTML, CSS, JavaScript, and other front-end programming languages. My goal is to create effective and efficient solutions to web problems and contribute to the growth of the development community.</p>
+<p>I am a passionate front-end web developer with expertise in HTML, CSS, JavaScript, and other related languages. My specialization lies in creating engaging and accessible user experiences. My goal is to provide effective solutions to web problems while staying updated with the latest technologies.
 
-<p align="center">
-<p align="left">
-  At the moment, I am working on my portfolio to showcase my skills in front-end design and development. I have set out to create a website that displays my past projects and demonstrates my experience in creating attractive and functional user interfaces. I am using the latest technologies and tools to build a responsive, easy-to-navigate, and visually stunning website.
+Currently, I am building my portfolio to showcase my experience in front-end design and development. I employ modern technologies to create a responsive, user-friendly, and visually impressive website.
 
-My goal is to present my work in a clear and effective manner so that potential employers or clients can easily understand my skills and experience in web design and development. I am also taking this opportunity to hone my skills and learn new techniques in user interface design and development.
+I focus on presenting my skills in a clear and effective manner to potential employers and clients. Moreover, I seize this opportunity to enhance my abilities and acquire new techniques in user interface design.
 
-Once my portfolio is complete, I hope to have the opportunity to share it and showcase my work to the web design and development community.
-</p>
-</p>
+Once my portfolio is complete, I look forward to sharing it with the web design and development community. I am eager to contribute and grow in my career as a front-end developer, collaborating on exciting projects with fellow professionals.</p>
 <h2 align="center">Languages and Tools </h2>
 
 <p align="center" class="techno"> <a class="techno-item" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a class="techno-item" href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
