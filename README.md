@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sadkodev</h1>
 <h5>About me</h5> 
-<p>I am a passionate front-end web developer with expertise in HTML, CSS, JavaScript, and other related languages. My specialization lies in creating engaging and accessible user experiences. My goal is to provide effective solutions to web problems while staying updated with the latest technologies.
+<p>
+  I am a passionate front-end web developer with expertise in HTML, CSS, and JavaScript. I specialize in creating engaging and accessible user experiences.
 
-Currently, I am building my portfolio to showcase my experience in front-end design and development. I employ modern technologies to create a responsive, user-friendly, and visually impressive website.
+Currently, I am building my portfolio to showcase my skills in front-end design and development. I use modern technologies to create responsive, user-friendly, and visually impressive websites.
 
-I focus on presenting my skills in a clear and effective manner to potential employers and clients. Moreover, I seize this opportunity to enhance my abilities and acquire new techniques in user interface design.
+I am focused on presenting my skills clearly and effectively to potential employers and clients. I am also taking this opportunity to enhance my abilities and learn new techniques in user interface design.
 
-Once my portfolio is complete, I look forward to sharing it with the web design and development community. I am eager to contribute and grow in my career as a front-end developer, collaborating on exciting projects with fellow professionals.</p>
+Once my portfolio is complete, I look forward to sharing it with the web design and development community and contributing to exciting projects as a front-end developer.
+</p>
 <h2 align="center">Languages and Tools </h2>
 
 <p align="center" class="techno"> <a class="techno-item" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a class="techno-item" href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
