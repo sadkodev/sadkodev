@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadkodev</h1>
-<h5>About me</h5> 
+<h2>About me</h2> 
 <p>
   I am a passionate front-end web developer with expertise in HTML, CSS, and JavaScript. I specialize in creating engaging and accessible user experiences.
 
@@ -10,9 +10,8 @@ I am focused on presenting my skills clearly and effectively to potential employ
 Once my portfolio is complete, I look forward to sharing it with the web design and development community and contributing to exciting projects as a front-end developer.
 </p>
 
-<h2 align="center">Languages and Tools </h2>
-<h4>Technologies</h4>
-<hr/>
+<h2 align="center">Skills</h2>
+<h2>Hard Skills</h4>
 <p class="languages">
   <a class="techno-item" href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -43,5 +42,5 @@ class="techno-item" href="https://www.figma.com/" target="_blank" rel="noreferre
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/
       </a>
 </p>
-
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadkodev&show_icons=true&locale=en&layout=compact" alt="sadkodev" /></p>
+  <h3>Stats</h3>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadkodev&show_icons=true&locale=en&layout=compact" alt="sadkodev" /></p>
