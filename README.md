@@ -9,8 +9,8 @@ I am focused on presenting my skills clearly and effectively to potential employ
 
 Once my portfolio is complete, I look forward to sharing it with the web design and development community and contributing to exciting projects as a front-end developer.
 </p>
-<img align="right" alt="GIF" src="https://github.com/sadkodev/sadkodev/blob/main/giphy.gif?raw=true" width="500" height="320" />
-<h2 align="center">Skills</h2>
+
+<h2>Skills</h2>
 <h2>Hard Skills</h4>
 <p class="languages">
   <a class="techno-item" href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
