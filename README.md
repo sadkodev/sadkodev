@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sadkodev</h1>
 <h2>About me</h2> 
 <p>
-  I am a passionate front-end web developer with expertise in HTML, CSS, and JavaScript. I specialize in creating engaging and accessible user experiences.
-
-Currently, I am building my portfolio to showcase my skills in front-end design and development. I use modern technologies to create responsive, user-friendly, and visually impressive websites.
-
-I am focused on presenting my skills clearly and effectively to potential employers and clients. I am also taking this opportunity to enhance my abilities and learn new techniques in user interface design.
-
-Once my portfolio is complete, I look forward to sharing it with the web design and development community and contributing to exciting projects as a front-end developer.
+I am an experienced web programmer specializing in Front-end development, with expertise in creating applications using technologies such as Astro, React, Node.js, and Rust. I am passionate about experimenting and continually learning new technologies, applying SOLID principles and design patterns to my projects. Additionally, I strive to improve my proficiency in Git and version control platforms. My skill set includes TypeScript, React, Astro, Node.js, UX/UI design, and Rust.
 </p>
 
 <h2>Skills</h2>
