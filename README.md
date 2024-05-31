@@ -3,9 +3,7 @@
 <p>
 I am an experienced web programmer specializing in Front-end development, with expertise in creating applications using technologies such as Astro, React, Node.js, and Rust. I am passionate about experimenting and continually learning new technologies, applying SOLID principles and design patterns to my projects. Additionally, I strive to improve my proficiency in Git and version control platforms. My skill set includes TypeScript, React, Astro, Node.js, UX/UI design, and Rust.
 </p>
-
-<h2>Skills</h2>
-<h2>Hard Skills</h4>
+<h2>Skills</h4>
 <p class="languages">
   <a class="techno-item" href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
