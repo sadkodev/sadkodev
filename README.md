@@ -9,6 +9,12 @@ I take pride in writing clean, maintainable code, and I apply SOLID principles a
 
 Whether working independently or within a team, I bring a balance of technical expertise and interpersonal skills that helps foster productive, solution-driven environments.
 </p>
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Typescript-Pro-_.svg?logo=typescript"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Rust-Enthusiast-_.svg?logo=rust"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-Pro-_.svg?logo=linux"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LLM-Enthusiast-_.svg"></a>
+</p>
 <h2>Skills</h4>
 <p class="languages">
   <a class="techno-item" href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
