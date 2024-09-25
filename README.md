@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sadkodev</h1>
 <h2>About me</h2> 
 <p>
-I am an experienced web programmer specializing in Front-end development, with expertise in creating applications using technologies such as Astro, React, Node.js, and Rust. I am passionate about experimenting and continually learning new technologies, applying SOLID principles and design patterns to my projects. Additionally, I strive to improve my proficiency in Git and version control platforms. My skill set includes TypeScript, React, Astro, Node.js, UX/UI design, and Rust.
+  As a dedicated and adaptable developer, I approach each project with a strong sense of curiosity, collaboration, and commitment to quality. I believe in the importance of clear communication, continuous learning, and building solutions that are not only functional but also meaningful to users. My passion for technology goes beyond coding—it's about solving real problems, working effectively in teams, and always striving for improvement.
+
+Currently, I am a Full-Stack Developer with a deep understanding of software development from end to end. My background in front-end development gives me a solid foundation in creating seamless and engaging user experiences, while my expanding expertise in back-end technologies allows me to design robust, scalable, and efficient systems. I am proficient in TypeScript, React, Node.js, Rust, and Astro, and I'm always eager to explore emerging technologies that can drive innovation.
+
+I take pride in writing clean, maintainable code, and I apply SOLID principles and design patterns to ensure my solutions are both scalable and reliable. My commitment to best practices also extends to version control, where I continuously refine my skills in Git and collaborative platforms.
+
+Whether working independently or within a team, I bring a balance of technical expertise and interpersonal skills that helps foster productive, solution-driven environments.
 </p>
 <h2>Skills</h4>
 <p class="languages">
