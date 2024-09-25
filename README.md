@@ -15,6 +15,8 @@ Whether working independently or within a team, I bring a balance of technical e
   <a href="#"><img src="https://img.shields.io/badge/Linux-Pro-_.svg?logo=linux"></a>
   <a href="#"><img src="https://img.shields.io/badge/LLM-Enthusiast-_.svg"></a>
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PluckyPrecious&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+
 <h2>Skills</h4>
 <p class="languages">
   <a class="techno-item" href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
