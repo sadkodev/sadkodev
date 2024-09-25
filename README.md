@@ -1,4 +1,4 @@
-<img src="https://github.com/sadkodev/sadkodev/blob/main/Banner-YT.png?raw=true" width="1250" style="width: 100%; height: 250px; object-fit: cover;" alt="Banner sadkodev">
+<img src="https://github.com/sadkodev/sadkodev/blob/main/Banner-YT.png?raw=true" width="1250" style="width: 100%; height: 250px; object-fit: contain;" alt="Banner sadkodev">
 <h1 align="center">Hi 👋, I'm Sadkodev</h1>
 <h2>About me</h2> 
 <p>
