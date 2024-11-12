@@ -64,4 +64,4 @@ class="techno-item" href="https://www.figma.com/" target="_blank" rel="noreferre
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="docker" width="40" height="40"/
       </a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadkodev&hide=php)](https://github.com/sadkodev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadkodev&hide=php)
